@@ -1,6 +1,6 @@
 /* 
 1. Use the inquirer npm package to get user input.
-2. Use the qr-image  to turn the user entered URL into a .
+2. Use the  to turn the user entered URL into a .
 3. Create a txt file to save the user input using the native fs .
 */
 
